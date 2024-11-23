@@ -5,6 +5,7 @@
 |  name | go | py | ts |
 |-----------|----|---------|-----------|
 | 235.lowest-common-ancestor-of-a-binary-search-tree | [✓](DFS/235.lowest-common-ancestor-of-a-binary-search-tree.go) |  | [✓](DFS/235.lowest-common-ancestor-of-a-binary-search-tree.ts) |
+| 572.subtree-of-another-tree | [✓](DFS/572.subtree-of-another-tree.go) |  | [✓](DFS/572.subtree-of-another-tree.ts) |
 
 ## Others
 
