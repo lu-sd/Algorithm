@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# update readme.md table
+./table
+git add README.md

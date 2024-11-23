@@ -4,6 +4,7 @@
 
 |  name | go | py | ts |
 |-----------|----|---------|-----------|
+| 226.invert-binary-tree | [✓](DFS/226.invert-binary-tree.go) |  | [✓](DFS/226.invert-binary-tree.ts) |
 | 235.lowest-common-ancestor-of-a-binary-search-tree | [✓](DFS/235.lowest-common-ancestor-of-a-binary-search-tree.go) |  | [✓](DFS/235.lowest-common-ancestor-of-a-binary-search-tree.ts) |
 | 572.subtree-of-another-tree | [✓](DFS/572.subtree-of-another-tree.go) |  | [✓](DFS/572.subtree-of-another-tree.ts) |
 
@@ -50,4 +51,11 @@
 | 76.minimum-window-substring |  |  | [✓](Two_points/76.minimum-window-substring.ts) |
 | 773.sliding-puzzle |  |  | [✓](Two_points/773.sliding-puzzle.ts) |
 | 876.middle-of-the-linked-list |  |  | [✓](Two_points/876.middle-of-the-linked-list.ts) |
+
+## hooks
+
+|  name | go | py | ts |
+|-----------|----|---------|-----------|
+| pre-commit |  |  |  |
+| set-hooks |  |  |  |
 
