@@ -10,7 +10,9 @@
 | 199.binary-tree-right-side-view |  |  | [✓](DFS/199.binary-tree-right-side-view.ts) |
 | 226.invert-binary-tree | [✓](DFS/226.invert-binary-tree.go) |  | [✓](DFS/226.invert-binary-tree.ts) |
 | 235.lowest-common-ancestor-of-a-binary-search-tree | [✓](DFS/235.lowest-common-ancestor-of-a-binary-search-tree.go) |  | [✓](DFS/235.lowest-common-ancestor-of-a-binary-search-tree.ts) |
+| 236.lowest-common-ancestor-of-a-binary-tree | [✓](DFS/236.lowest-common-ancestor-of-a-binary-tree.go) |  | [✓](DFS/236.lowest-common-ancestor-of-a-binary-tree.ts) |
 | 572.subtree-of-another-tree | [✓](DFS/572.subtree-of-another-tree.go) |  | [✓](DFS/572.subtree-of-another-tree.ts) |
+| 98.validate-binary-search-tree | [✓](DFS/98.validate-binary-search-tree.go) |  | [✓](DFS/98.validate-binary-search-tree.ts) |
 
 ## Others
 
