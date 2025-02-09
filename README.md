@@ -8,6 +8,7 @@
 | 101.symmetric-tree | [✓](DFS/101.symmetric-tree.go) |  |  |
 | 110.balanced-binary-tree | [✓](DFS/110.balanced-binary-tree.go) |  | [✓](DFS/110.balanced-binary-tree.ts) |
 | 111.minimum-depth-of-binary-tree | [✓](DFS/111.minimum-depth-of-binary-tree.go) |  |  |
+| 124.binary-tree-maximum-path-sum | [✓](DFS/124.binary-tree-maximum-path-sum.go) |  | [✓](DFS/124.binary-tree-maximum-path-sum.ts) |
 | 1448.count-good-nodes-in-binary-tree | [✓](DFS/1448.count-good-nodes-in-binary-tree.go) |  |  |
 | 199.binary-tree-right-side-view |  |  | [✓](DFS/199.binary-tree-right-side-view.ts) |
 | 216.combination-sum-iii | [✓](DFS/216.combination-sum-iii.go) |  | [✓](DFS/216.combination-sum-iii.ts) |
@@ -16,6 +17,7 @@
 | 236.lowest-common-ancestor-of-a-binary-tree | [✓](DFS/236.lowest-common-ancestor-of-a-binary-tree.go) |  | [✓](DFS/236.lowest-common-ancestor-of-a-binary-tree.ts) |
 | 543.diameter-of-binary-tree | [✓](DFS/543.diameter-of-binary-tree.go) |  |  |
 | 572.subtree-of-another-tree | [✓](DFS/572.subtree-of-another-tree.go) |  | [✓](DFS/572.subtree-of-another-tree.ts) |
+| 687.longest-univalue-path | [✓](DFS/687.longest-univalue-path.go) |  | [✓](DFS/687.longest-univalue-path.ts) |
 | 98.validate-binary-search-tree | [✓](DFS/98.validate-binary-search-tree.go) |  | [✓](DFS/98.validate-binary-search-tree.ts) |
 
 ## Others
