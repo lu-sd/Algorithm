@@ -15,9 +15,11 @@
 | 226.invert-binary-tree | [✓](DFS/226.invert-binary-tree.go) |  | [✓](DFS/226.invert-binary-tree.ts) |
 | 235.lowest-common-ancestor-of-a-binary-search-tree | [✓](DFS/235.lowest-common-ancestor-of-a-binary-search-tree.go) |  | [✓](DFS/235.lowest-common-ancestor-of-a-binary-search-tree.ts) |
 | 236.lowest-common-ancestor-of-a-binary-tree | [✓](DFS/236.lowest-common-ancestor-of-a-binary-tree.go) |  | [✓](DFS/236.lowest-common-ancestor-of-a-binary-tree.ts) |
+| 39.combination-sum | [✓](DFS/39.combination-sum.go) |  | [✓](DFS/39.combination-sum.ts) |
 | 543.diameter-of-binary-tree | [✓](DFS/543.diameter-of-binary-tree.go) |  |  |
 | 572.subtree-of-another-tree | [✓](DFS/572.subtree-of-another-tree.go) |  | [✓](DFS/572.subtree-of-another-tree.ts) |
 | 687.longest-univalue-path | [✓](DFS/687.longest-univalue-path.go) |  | [✓](DFS/687.longest-univalue-path.ts) |
+| 77.combinations |  |  | [✓](DFS/77.combinations.ts) |
 | 98.validate-binary-search-tree | [✓](DFS/98.validate-binary-search-tree.go) |  | [✓](DFS/98.validate-binary-search-tree.ts) |
 
 ## Others
